@@ -22,13 +22,16 @@
 保存的神经网络为net.mat
 
 Pred1为input所对应的初始网络预测值
+
 ![image](https://user-images.githubusercontent.com/92127845/160221037-5430e6f5-a2ac-4afb-bb90-8359ecb68cd8.png)
 
 Pred2为input所对应的训练后网络预测值
+
 ![image](https://user-images.githubusercontent.com/92127845/160221038-7f3bdacf-71e7-4a70-a9a8-3a82aff94747.png)
 ![image](https://user-images.githubusercontent.com/92127845/160221048-9d8a8720-1c6d-4a3a-91a8-38e59c602f55.png)
 
 加载训练后神经网络net.mat预测x=[1 5 1]时对应的输出情况
+
 ![image](https://user-images.githubusercontent.com/92127845/160221050-c1c308e5-4b04-4f37-a229-7908d4be3157.png)
 
 习题1-2: 神经网络药品销售预测:用预测方法采用前三个月的销售量来预测第四个月的销售量.
